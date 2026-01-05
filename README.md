@@ -22,8 +22,9 @@ Here are some ideas to get you started:
 
 <!-- Profile Picture -->
 <p align="center">
-  <img width="703" height="703" alt="fatmaAyad-modified" src="https://github.com/user-attachments/assets/16130fed-9f3c-40a4-a8cf-ad0efddfdc46" />
+  <img width="450" height="450" alt="fatmaAyad-modified" src="https://github.com/user-attachments/assets/7790ee8f-06bd-4db6-8758-7846ddf87f1b" />
 </p>
+
 
 
 <hr/>
