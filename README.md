@@ -16,10 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=3DDC84&center=true&vCenter=true&width=600&lines=Hi+There!+👋;It's+Fatma!;Welcome+to+my+GitHub!;I+build+cool+things+💻" />
-</p>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/Hi+there!=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 
 <hr/>
