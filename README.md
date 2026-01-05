@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/Hi+there!=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+<div>
+  [![Typing SVG](https://readme-typing-svg.demolab.com/Hi+there!=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+</div>
+
 
 
 <hr/>
