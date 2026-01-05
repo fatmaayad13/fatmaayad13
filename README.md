@@ -1,10 +1,10 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=250&duration=4000&lines=Hi+there!+👋;+It's+Fatma!;&color=e0479e" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=250&duration=8000&lines=Hi+there!+👋;+It's+Fatma!;&color=e0479e" />
 </h1>
 <hr>
 <h2 align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50" align="center" /> About Me </h2>
 
-* 🦉  I'm a CS major at _[Bryn Mawr College](https://www.brynmawr.edu/)__
+* 🦉  I'm a CS major at [Bryn Mawr College](https://www.brynmawr.edu/)__
 * 🌍  I'm based in Bryn Mawr, PA
 * 🤝  I'm open to collaborating on intersting projects
 <h3> ❤️ Connect with me:
