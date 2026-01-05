@@ -22,8 +22,9 @@ Here are some ideas to get you started:
 
 <!-- Profile Picture -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/YOUR_USERNAME" width="150" style="border-radius:50%" />
+  <img width="703" height="703" alt="fatmaAyad-modified" src="https://github.com/user-attachments/assets/16130fed-9f3c-40a4-a8cf-ad0efddfdc46" />
 </p>
+
 
 <hr/>
 
