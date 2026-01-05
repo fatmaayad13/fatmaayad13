@@ -15,12 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- Typing Animation -->
-<div>
-  [![Typing SVG](https://readme-typing-svg.demolab.com/Hi+there!=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-</div>
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/Fatma+Ayad;What's+up!=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 <hr/>
 
