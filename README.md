@@ -20,11 +20,6 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=3DDC84&center=true&vCenter=true&width=600&lines=Hi+There!+👋;It's+Fatma!;Welcome+to+my+GitHub!;I+build+cool+things+💻" />
 </p>
 
-<!-- Profile Picture -->
-<p align="center">
-  <img width="450" height="450" alt="fatmaAyad-modified" src="https://github.com/user-attachments/assets/7790ee8f-06bd-4db6-8758-7846ddf87f1b" />
-</p>
-
 
 
 <hr/>
