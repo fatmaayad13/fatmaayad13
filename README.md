@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=35&center=true&vCenter=true&width=500&height=250&duration=2000&lines=Hello+World!+👋;+It's+Fatma!;An+aspiring+software+engineer+:);&color=e0479e" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=35&center=true&vCenter=true&width=500&height=200&duration=3000&lines=Hello+World!+👋;+It's+Fatma!;An+aspiring+software+engineer+:);&color=e0479e" />
 </h1>
 <hr>
 <h2 align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50" align="center" /> About Me </h2>
