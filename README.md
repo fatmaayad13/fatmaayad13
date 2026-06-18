@@ -3,7 +3,7 @@
    <a></a>
 </h1>
 <hr>
-<h2 align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="50" align="center" /> About Me </h2>
+<h2 align="center"> <a href="https://fatma-ayad.vercel.app"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="50" align="center" /> <a></a>About Me </h2>
 
 * 🦉  I'm a CS major at [Bryn Mawr College](https://www.brynmawr.edu/)
 * 🌍  I'm based in Bryn Mawr, PA
